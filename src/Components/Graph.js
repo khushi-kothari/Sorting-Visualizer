@@ -12,7 +12,7 @@ class Graph extends Component{
                 <div className="w-12 h-70 bg-blue-500 mr-1 md:mr-4"></div>
                 <div className="w-12 h-52 bg-blue-500 mr-1 md:mr-4"></div>
                 <div className="w-12 h-20 bg-blue-500 mr-1 md:mr-4"></div>
-                <div className="w-12 h-96 bg-blue-500 mr-1 md:mr-4"></div>
+                <div className="w-12 h-96 bg-blue-500"></div>
                 </div>
             </div>
             </div>
